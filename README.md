@@ -10,7 +10,7 @@ i,e, 0.4 arcseconds ≈ 12 m × 12 m pixels (depends slightly on latitude)
 
     That means:
 
-    A 50 m × 50 m patch ≈ 4 × 4 pixels → too small for meaningful TDA
+    A 50 m × 50 m patch ≈ 4 × 4 pixels 
 
     A 100 m × 100 m patch ≈ 8 × 8 pixels
 
@@ -18,5 +18,9 @@ i,e, 0.4 arcseconds ≈ 12 m × 12 m pixels (depends slightly on latitude)
 
     A 200 m × 200 m patch ≈ 16 × 16 pixels
 
-    so for persistent homology to work reliably , let us take a 200 m × 200 m patch.
+    so for persistent homology to work reliably , we can take a 200 m × 200 m patch.
+
+    i have extracted a  50 m × 50 m patch ,  100 m × 100 m patch and a  200 m × 200 m patch.
+
+
     

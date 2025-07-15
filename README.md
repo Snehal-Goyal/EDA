@@ -1,7 +1,11 @@
 # EDA
 
 # file description.ipynb
-this file contains the eda on the files 
+this file contains the complete description and eda on the files 
+
+# mahsa_sites_eda_report.html
+
+the html file that conatins the complete report of the eda of the file mahsa_sites
 
 # exp.ipynb
 now since the data is in form of points , so we make a buffer or dem patch around it .

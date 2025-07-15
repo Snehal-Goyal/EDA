@@ -1,4 +1,9 @@
 # EDA
+
+# file description.ipynb
+this file contains the eda on the files 
+
+# exp.ipynb
 now since the data is in form of points , so we make a buffer or dem patch around it .
 
 How to decide the amount of area to be taken as buffer?
@@ -21,6 +26,7 @@ i,e, 0.4 arcseconds ≈ 12 m × 12 m pixels (depends slightly on latitude)
     so for persistent homology to work reliably , we can take a 200 m × 200 m patch.
 
     i have extracted a  50 m × 50 m patch ,  100 m × 100 m patch and a  200 m × 200 m patch.
+
 
 
     

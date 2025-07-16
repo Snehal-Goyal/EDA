@@ -29,8 +29,12 @@ i,e, 0.4 arcseconds ≈ 12 m × 12 m pixels (depends slightly on latitude)
 
     so for persistent homology to work reliably , we can take a 200 m × 200 m patch.
 
-    i have extracted a  50 m × 50 m patch ,  100 m × 100 m patch and a  200 m × 200 m patch.
+   extracted a  50 m × 50 m patch ,  100 m × 100 m patch and a  200 m × 200 m patch.
 
 
+
+
+The main product of the TanDEM-X mission is the TanDEM-X DEM that contains the final, global Digital
+Elevation Model (DEM) of the land masses of the Earth
 
     
